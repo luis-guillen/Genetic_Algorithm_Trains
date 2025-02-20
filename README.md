@@ -1,7 +1,3 @@
-Based on the information gathered, here is a draft README for your project:
-
----
-
 # 🚝 Genetic Algorithm for Train Scheduling
 
 This project implements a genetic algorithm to optimize the scheduling of train arrivals at various operational docks. The goal is to minimize the total waiting time and penalties incurred by trains waiting for their turn at a dock.
@@ -123,7 +119,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to modify the content as needed.
